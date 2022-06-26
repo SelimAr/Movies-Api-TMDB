@@ -25,7 +25,7 @@ function App() {
             <Title/>
             <Gallery>
                 {movies.slice(0,20).map((movie) =>
-                    <Card key={movie.id} {...movie} />
+                    <Card key={movie.id} {...movie} /> 
                 )}
             </Gallery>
         </div>
