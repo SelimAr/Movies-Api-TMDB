@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+### **TMDB-API-Database most popular movies React / Styled-Component**
+![TMDBDesktop](https://user-images.githubusercontent.com/82125128/175816038-15545c46-fa16-4b6a-8bc5-ca99c8838f88.PNG)
+Desktop view
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![TMDBDesktopPopUp](https://user-images.githubusercontent.com/82125128/175816078-2cd9f223-730a-4143-bdf6-4c41bccaaf46.PNG)
+Popup Desktop view
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![TMDBResponsive](https://user-images.githubusercontent.com/82125128/175816107-418da484-b829-417f-985e-cc6aa10ef55a.PNG)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+popup Responsive view
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Available Scripts
 
